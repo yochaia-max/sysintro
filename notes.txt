@@ -1,0 +1,31 @@
+=== My Linux notes ===
+Linux is an operating system, like Windows or macOS.
+The terminal lets us type commands instead of clicking.
+SSH lets us use the terminal of a remote computer.
+The VPN connects our computer to the university network.
+The jump server bava lets us connect without the VPN.
+Every command has a name, and may get flags and arguments.
+Flags usually start with a dash, like -n.
+echo prints its arguments to the screen.
+cat prints the content of a file.
+cat -n also prints the number of each line.
+man shows the manual of a command.
+Press q to leave the manual.
+Many commands explain themselves with --help.
+Ctrl-C stops the running program.
+The up arrow brings back the previous command.
+The Tab key completes the names of commands and files.
+The star (*) matches any number of characters.
+The question mark (?) matches exactly one character.
+Curly braces, like {a,b}, expand into several words.
+> writes the output of a command into a file.
+>> adds the output of a command to the end of a file.
+diff shows the lines that differ between two files.
+When two files are identical, diff prints nothing.
+nano is a simple text editor that runs in the terminal.
+In nano, Ctrl-O saves the file.
+In nano, Ctrl-X exits the editor.
+In nano, Ctrl-K cuts the current line.
+In nano, Ctrl-W searches for a word.
+The shortcuts are listed at the bottom of the nano screen.
+=== End of notes ===
